@@ -1,2 +1,3 @@
 # ising
 Ising Model
+![demo]()
