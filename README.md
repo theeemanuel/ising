@@ -1,3 +1,3 @@
 # ising
-Ising Model
+-Ising Model
 ![demo](https://github.com/theeemanuel/ising/blob/main/ising.gif)
