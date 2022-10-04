@@ -5,7 +5,7 @@ from matplotlib import colors
 
 T = 1.5
 
-N = 10000
+N = 500
 
 up = 1
 down = -1
